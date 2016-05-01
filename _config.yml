@@ -1,0 +1,14 @@
+layout_spectrum: 0.3921326
+typography_spectrum: 0.5274984
+color:
+  saturation: 0.6833969
+  lightness: 0.2367318
+  brandStrength: 0.7595589
+  rhythmicContrast: 0.7877002
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Michalove
